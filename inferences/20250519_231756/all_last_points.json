@@ -1,0 +1,5714 @@
+{
+  "AAA": {
+    "Ticker": "AAA",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.5263157894736842,
+    "confidence": 0.5055264320998197
+  },
+  "AAM": {
+    "Ticker": "AAM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5365853658536586,
+    "confidence": 0.5459933280944824
+  },
+  "ABI": {
+    "Ticker": "ABI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.544238625714902
+  },
+  "ABT": {
+    "Ticker": "ABT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6206896551724138,
+    "confidence": 0.6237666736166622
+  },
+  "ACB": {
+    "Ticker": "ACB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6545454545454545,
+    "confidence": 0.6467825663669183
+  },
+  "ACC": {
+    "Ticker": "ACC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6885245901639344,
+    "confidence": 0.996285761358911
+  },
+  "ACE": {
+    "Ticker": "ACE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5602087095377098
+  },
+  "ACL": {
+    "Ticker": "ACL",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4827586206896552,
+    "confidence": 0.7079589343751642
+  },
+  "ADC": {
+    "Ticker": "ADC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.6038689290935091
+  },
+  "ADP": {
+    "Ticker": "ADP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.6370314118080506
+  },
+  "AGF": {
+    "Ticker": "AGF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.7791886329650879
+  },
+  "AGM": {
+    "Ticker": "AGM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.4285714285714285,
+    "confidence": 0.696853756904602
+  },
+  "AGR": {
+    "Ticker": "AGR",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.3333333333333333,
+    "confidence": 0.6389445844046401
+  },
+  "ALT": {
+    "Ticker": "ALT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5899523378443344
+  },
+  "ALV": {
+    "Ticker": "ALV",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.3571428571428571,
+    "confidence": 0.6526568995024217
+  },
+  "AMC": {
+    "Ticker": "AMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6415563059142989
+  },
+  "AME": {
+    "Ticker": "AME",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.7096774193548387,
+    "confidence": 0.7226672172546387
+  },
+  "AMV": {
+    "Ticker": "AMV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5764064788818359
+  },
+  "ANV": {
+    "Ticker": "ANV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5
+  },
+  "APC": {
+    "Ticker": "APC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.2666666666666666,
+    "confidence": 0.4772976985364067
+  },
+  "APG": {
+    "Ticker": "APG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5263157894736842,
+    "confidence": 0.5733664250865287
+  },
+  "API": {
+    "Ticker": "API",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.9702226036690793
+  },
+  "APP": {
+    "Ticker": "APP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.579770243187596
+  },
+  "APS": {
+    "Ticker": "APS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5306122448979592,
+    "confidence": 0.5
+  },
+  "ARM": {
+    "Ticker": "ARM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.8503949046134949
+  },
+  "ASA": {
+    "Ticker": "ASA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.906386137008667
+  },
+  "ASM": {
+    "Ticker": "ASM",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.5660377358490566,
+    "confidence": 0.47545066475524145
+  },
+  "ASP": {
+    "Ticker": "ASP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5862068965517241,
+    "confidence": 0.5356293320655823
+  },
+  "ATA": {
+    "Ticker": "ATA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.7265008539705208
+  },
+  "AVF": {
+    "Ticker": "AVF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.7011209726333618
+  },
+  "BBC": {
+    "Ticker": "BBC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5055440293163015
+  },
+  "BBS": {
+    "Ticker": "BBS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.5798350970188797
+  },
+  "BCC": {
+    "Ticker": "BCC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6428571428571429,
+    "confidence": 0.5383613705635071
+  },
+  "BCE": {
+    "Ticker": "BCE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5
+  },
+  "BDB": {
+    "Ticker": "BDB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9523809523809524,
+    "confidence": 0.9776026606559753
+  },
+  "BED": {
+    "Ticker": "BED",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9530545473098755
+  },
+  "BHC": {
+    "Ticker": "BHC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.7301587301587301,
+    "confidence": 0.5589185022728814
+  },
+  "BIC": {
+    "Ticker": "BIC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.71875,
+    "confidence": 0.5128932595252991
+  },
+  "BKC": {
+    "Ticker": "BKC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5745258519615837
+  },
+  "BLF": {
+    "Ticker": "BLF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5584594660343155
+  },
+  "BMC": {
+    "Ticker": "BMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6538461538461539,
+    "confidence": 0.9827617187654156
+  },
+  "BMI": {
+    "Ticker": "BMI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5626325375100081
+  },
+  "BMJ": {
+    "Ticker": "BMJ",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5672025680541992
+  },
+  "BMP": {
+    "Ticker": "BMP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.7879550171480939
+  },
+  "BPC": {
+    "Ticker": "BPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.5476556682370788
+  },
+  "BRC": {
+    "Ticker": "BRC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.514776717585748
+  },
+  "BSC": {
+    "Ticker": "BSC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9575801491737366
+  },
+  "BSI": {
+    "Ticker": "BSI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.9857475187277245
+  },
+  "BST": {
+    "Ticker": "BST",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.7647751635837192
+  },
+  "BT6": {
+    "Ticker": "BT6",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.7682164311408997
+  },
+  "BTG": {
+    "Ticker": "BTG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.7827375531196594
+  },
+  "BTH": {
+    "Ticker": "BTH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6557377049180327,
+    "confidence": 0.9626396894454956
+  },
+  "BTP": {
+    "Ticker": "BTP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.631578947368421,
+    "confidence": 0.515799209389481
+  },
+  "BTS": {
+    "Ticker": "BTS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7419354838709677,
+    "confidence": 0.5147506056473151
+  },
+  "BTT": {
+    "Ticker": "BTT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.5421542293116592
+  },
+  "BTW": {
+    "Ticker": "BTW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5726608040422271
+  },
+  "BVG": {
+    "Ticker": "BVG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9,
+    "confidence": 0.6065899256757434
+  },
+  "BVH": {
+    "Ticker": "BVH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6875,
+    "confidence": 0.5384599566459656
+  },
+  "BVN": {
+    "Ticker": "BVN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.7475724018196392
+  },
+  "BVS": {
+    "Ticker": "BVS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5116279069767442,
+    "confidence": 0.5299243927001953
+  },
+  "BWA": {
+    "Ticker": "BWA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.71875,
+    "confidence": 0.7901866854911843
+  },
+  "BXH": {
+    "Ticker": "BXH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.9795376658439636
+  },
+  "C21": {
+    "Ticker": "C21",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7540983606557377,
+    "confidence": 0.5543740826055004
+  },
+  "C32": {
+    "Ticker": "C32",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.358974358974359,
+    "confidence": 0.8829101125228458
+  },
+  "C47": {
+    "Ticker": "C47",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6545454545454545,
+    "confidence": 0.6618501170208668
+  },
+  "C92": {
+    "Ticker": "C92",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.8947460878722112
+  },
+  "CAD": {
+    "Ticker": "CAD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8860759493670886,
+    "confidence": 0.6209098696708679
+  },
+  "CAN": {
+    "Ticker": "CAN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.6561507702259393
+  },
+  "CAP": {
+    "Ticker": "CAP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.5100624732175385
+  },
+  "CCI": {
+    "Ticker": "CCI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5417345082625058
+  },
+  "CCL": {
+    "Ticker": "CCL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5416666666666666,
+    "confidence": 0.5180115699768066
+  },
+  "CCM": {
+    "Ticker": "CCM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.821917808219178,
+    "confidence": 0.850012369218705
+  },
+  "CDC": {
+    "Ticker": "CDC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.5162642388552587
+  },
+  "CHP": {
+    "Ticker": "CHP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.8235366940498352
+  },
+  "CI5": {
+    "Ticker": "CI5",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.6250275437175634
+  },
+  "CID": {
+    "Ticker": "CID",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.9223252670054064
+  },
+  "CIG": {
+    "Ticker": "CIG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5909090909090909,
+    "confidence": 0.9905130825592999
+  },
+  "CII": {
+    "Ticker": "CII",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6333333333333333,
+    "confidence": 0.6283836364746094
+  },
+  "CJC": {
+    "Ticker": "CJC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9709272980690002
+  },
+  "CKV": {
+    "Ticker": "CKV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.597821527579249
+  },
+  "CLC": {
+    "Ticker": "CLC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5056927898511442
+  },
+  "CLG": {
+    "Ticker": "CLG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.9523809523809524,
+    "confidence": 0.5123269557952881
+  },
+  "CLW": {
+    "Ticker": "CLW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.5795738697357986
+  },
+  "CMC": {
+    "Ticker": "CMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4210526315789473,
+    "confidence": 0.5251558710481852
+  },
+  "CMG": {
+    "Ticker": "CMG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6,
+    "confidence": 0.6259851666899275
+  },
+  "CMI": {
+    "Ticker": "CMI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.6252649426460266
+  },
+  "CMS": {
+    "Ticker": "CMS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.1428571428571428,
+    "confidence": 0.5
+  },
+  "CMT": {
+    "Ticker": "CMT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.3076923076923077,
+    "confidence": 0.5195111632347107
+  },
+  "CMV": {
+    "Ticker": "CMV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5977739078292639
+  },
+  "CMX": {
+    "Ticker": "CMX",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.3870967741935484,
+    "confidence": 0.5046710991471394
+  },
+  "CNG": {
+    "Ticker": "CNG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.631578947368421,
+    "confidence": 0.6028391593097969
+  },
+  "CNT": {
+    "Ticker": "CNT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.5903023461830482
+  },
+  "COM": {
+    "Ticker": "COM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5289093391535403
+  },
+  "CPC": {
+    "Ticker": "CPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5094030858764859
+  },
+  "CSC": {
+    "Ticker": "CSC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.425531914893617,
+    "confidence": 0.5170371185217264
+  },
+  "CSM": {
+    "Ticker": "CSM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6086956521739131,
+    "confidence": 0.5831275582313538
+  },
+  "CT3": {
+    "Ticker": "CT3",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8333333333333334,
+    "confidence": 0.9572771021196705
+  },
+  "CT6": {
+    "Ticker": "CT6",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.3684210526315789,
+    "confidence": 0.9525581050630785
+  },
+  "CTA": {
+    "Ticker": "CTA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.8571549654006958
+  },
+  "CTB": {
+    "Ticker": "CTB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5812787970793483
+  },
+  "CTD": {
+    "Ticker": "CTD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5062543015302169
+  },
+  "CTG": {
+    "Ticker": "CTG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5882352941176471,
+    "confidence": 0.503032922744751
+  },
+  "CTI": {
+    "Ticker": "CTI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5238095238095238,
+    "confidence": 0.531040480363486
+  },
+  "CTN": {
+    "Ticker": "CTN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6189113855361938
+  },
+  "CTS": {
+    "Ticker": "CTS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5219007134437561
+  },
+  "CTX": {
+    "Ticker": "CTX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.5343296353744621
+  },
+  "CVN": {
+    "Ticker": "CVN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.926829268292683,
+    "confidence": 0.5469882991902524
+  },
+  "CVT": {
+    "Ticker": "CVT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7761194029850746,
+    "confidence": 0.5014545995302881
+  },
+  "CX8": {
+    "Ticker": "CX8",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.746268656716418,
+    "confidence": 0.8389816409024528
+  },
+  "CYC": {
+    "Ticker": "CYC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.926829268292683,
+    "confidence": 0.558946774133594
+  },
+  "D11": {
+    "Ticker": "D11",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5197339057922363
+  },
+  "D2D": {
+    "Ticker": "D2D",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4117647058823529,
+    "confidence": 0.5
+  },
+  "DAC": {
+    "Ticker": "DAC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.9137816429138184
+  },
+  "DAD": {
+    "Ticker": "DAD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5120393750085617
+  },
+  "DAE": {
+    "Ticker": "DAE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.7954632639884949
+  },
+  "DAG": {
+    "Ticker": "DAG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.5669859647750854
+  },
+  "DBC": {
+    "Ticker": "DBC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5862068965517241,
+    "confidence": 0.891356416701853
+  },
+  "DBM": {
+    "Ticker": "DBM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.6912798427011425
+  },
+  "DBT": {
+    "Ticker": "DBT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.1739130434782608,
+    "confidence": 0.7865293470836205
+  },
+  "DC2": {
+    "Ticker": "DC2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5472840878928941
+  },
+  "DC4": {
+    "Ticker": "DC4",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5370190651636348
+  },
+  "DCL": {
+    "Ticker": "DCL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.696969696969697,
+    "confidence": 0.5809591626262187
+  },
+  "DCS": {
+    "Ticker": "DCS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.5968577326691984
+  },
+  "DCT": {
+    "Ticker": "DCT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.80389404296875
+  },
+  "DDM": {
+    "Ticker": "DDM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.6805848902622803
+  },
+  "DDN": {
+    "Ticker": "DDN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.6483229206082495
+  },
+  "DGT": {
+    "Ticker": "DGT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.6835564174715852
+  },
+  "DHA": {
+    "Ticker": "DHA",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.24,
+    "confidence": 0.5956531161007272
+  },
+  "DHC": {
+    "Ticker": "DHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5964912280701754,
+    "confidence": 0.6339065091091506
+  },
+  "DHG": {
+    "Ticker": "DHG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4375,
+    "confidence": 0.7160159746829986
+  },
+  "DHM": {
+    "Ticker": "DHM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5641025641025641,
+    "confidence": 0.8228886022272932
+  },
+  "DHT": {
+    "Ticker": "DHT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.1481481481481481,
+    "confidence": 0.9843748113039602
+  },
+  "DIC": {
+    "Ticker": "DIC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7540983606557377,
+    "confidence": 0.6400159620544872
+  },
+  "DID": {
+    "Ticker": "DID",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7419354838709677,
+    "confidence": 0.5337129235267639
+  },
+  "DIG": {
+    "Ticker": "DIG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6229508196721312,
+    "confidence": 0.6214627027511597
+  },
+  "DIH": {
+    "Ticker": "DIH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5,
+    "confidence": 0.5185151696205139
+  },
+  "DL1": {
+    "Ticker": "DL1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6229508196721312,
+    "confidence": 0.9663155106401805
+  },
+  "DLD": {
+    "Ticker": "DLD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9,
+    "confidence": 0.9854925274848938
+  },
+  "DLG": {
+    "Ticker": "DLG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6274509803921569,
+    "confidence": 0.5057336688041687
+  },
+  "DLR": {
+    "Ticker": "DLR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.9473453760147095
+  },
+  "DMC": {
+    "Ticker": "DMC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.56,
+    "confidence": 0.6106534600257874
+  },
+  "DNC": {
+    "Ticker": "DNC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.9253460919549658
+  },
+  "DNL": {
+    "Ticker": "DNL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.6452876612035964
+  },
+  "DNM": {
+    "Ticker": "DNM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5428612228697344
+  },
+  "DNP": {
+    "Ticker": "DNP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5514316078698779
+  },
+  "DNT": {
+    "Ticker": "DNT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9,
+    "confidence": 0.8485906720161438
+  },
+  "DPC": {
+    "Ticker": "DPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8974358974358975,
+    "confidence": 0.6932452701256846
+  },
+  "DPM": {
+    "Ticker": "DPM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6875,
+    "confidence": 0.5055131316184998
+  },
+  "DPP": {
+    "Ticker": "DPP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.7740448526101673
+  },
+  "DPR": {
+    "Ticker": "DPR",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7142857142857143,
+    "confidence": 0.9950842740007833
+  },
+  "DQC": {
+    "Ticker": "DQC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.4827586206896552,
+    "confidence": 0.5203597545623779
+  },
+  "DRC": {
+    "Ticker": "DRC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.1052631578947368,
+    "confidence": 0.5480580328557019
+  },
+  "DRH": {
+    "Ticker": "DRH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.5086366071511172
+  },
+  "DRL": {
+    "Ticker": "DRL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.668925940990448
+  },
+  "DSN": {
+    "Ticker": "DSN",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.2142857142857142,
+    "confidence": 0.72465555750566
+  },
+  "DST": {
+    "Ticker": "DST",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.5974607467651367
+  },
+  "DTA": {
+    "Ticker": "DTA",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.6341463414634146,
+    "confidence": 0.5351946949958801
+  },
+  "DTC": {
+    "Ticker": "DTC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.7169584631919861
+  },
+  "DTL": {
+    "Ticker": "DTL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5624618638532031
+  },
+  "DTT": {
+    "Ticker": "DTT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.6595611468534675
+  },
+  "DVP": {
+    "Ticker": "DVP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6415094339622641,
+    "confidence": 0.9357759994653698
+  },
+  "DXG": {
+    "Ticker": "DXG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8064516129032258,
+    "confidence": 0.5074365015360145
+  },
+  "DXL": {
+    "Ticker": "DXL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.5209144353866577
+  },
+  "DXP": {
+    "Ticker": "DXP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6349206349206349,
+    "confidence": 0.5257452429704539
+  },
+  "DXV": {
+    "Ticker": "DXV",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.6222222222222222,
+    "confidence": 0.5317723155021667
+  },
+  "DZM": {
+    "Ticker": "DZM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6161114573478699
+  },
+  "EBS": {
+    "Ticker": "EBS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.676923076923077,
+    "confidence": 0.9814424529789976
+  },
+  "ECI": {
+    "Ticker": "ECI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.926829268292683,
+    "confidence": 0.9242880418411122
+  },
+  "EFI": {
+    "Ticker": "EFI",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.7887323943661971,
+    "confidence": 0.5295401811599731
+  },
+  "EIB": {
+    "Ticker": "EIB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.7975274920463562
+  },
+  "EID": {
+    "Ticker": "EID",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5
+  },
+  "ELC": {
+    "Ticker": "ELC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5964912280701754,
+    "confidence": 0.7520256820179194
+  },
+  "EVE": {
+    "Ticker": "EVE",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.48,
+    "confidence": 0.5302339792251587
+  },
+  "FBA": {
+    "Ticker": "FBA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9934051632881165
+  },
+  "FCN": {
+    "Ticker": "FCN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.576271186440678,
+    "confidence": 0.5058382737447823
+  },
+  "FDC": {
+    "Ticker": "FDC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.5933310389518738
+  },
+  "FLC": {
+    "Ticker": "FLC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6134158968925476
+  },
+  "FMC": {
+    "Ticker": "FMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5644478797912598
+  },
+  "FPT": {
+    "Ticker": "FPT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.6462640762329102
+  },
+  "GAS": {
+    "Ticker": "GAS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6153846153846154,
+    "confidence": 0.7889775648969038
+  },
+  "GDT": {
+    "Ticker": "GDT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.45,
+    "confidence": 0.996656618813331
+  },
+  "GDW": {
+    "Ticker": "GDW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6265984555977667
+  },
+  "GER": {
+    "Ticker": "GER",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.9513466954231262
+  },
+  "GGG": {
+    "Ticker": "GGG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.7087403431378652
+  },
+  "GHC": {
+    "Ticker": "GHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6557377049180327,
+    "confidence": 0.9652857457331968
+  },
+  "GIL": {
+    "Ticker": "GIL",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4390243902439024,
+    "confidence": 0.7642643021619953
+  },
+  "GLT": {
+    "Ticker": "GLT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5696129751137229
+  },
+  "GMC": {
+    "Ticker": "GMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.65625,
+    "confidence": 0.5873040556907654
+  },
+  "GMD": {
+    "Ticker": "GMD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6046511627906976,
+    "confidence": 0.8493448395534631
+  },
+  "GMX": {
+    "Ticker": "GMX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.6904395049804183
+  },
+  "GSP": {
+    "Ticker": "GSP",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.56,
+    "confidence": 0.49462301536872205
+  },
+  "GTA": {
+    "Ticker": "GTA",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.3902439024390244,
+    "confidence": 0.5020238805753694
+  },
+  "GTT": {
+    "Ticker": "GTT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.7024727463722229
+  },
+  "H11": {
+    "Ticker": "H11",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.9331622695091364
+  },
+  "HAD": {
+    "Ticker": "HAD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5604127431041817
+  },
+  "HAG": {
+    "Ticker": "HAG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6956521739130435,
+    "confidence": 0.4149811989865959
+  },
+  "HAI": {
+    "Ticker": "HAI",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.0,
+    "confidence": 0.5011944770812988
+  },
+  "HAP": {
+    "Ticker": "HAP",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.4761904761904761,
+    "confidence": 0.5
+  },
+  "HAS": {
+    "Ticker": "HAS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.631578947368421,
+    "confidence": 0.6025465726852417
+  },
+  "HAT": {
+    "Ticker": "HAT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7761194029850746,
+    "confidence": 0.5370385646820068
+  },
+  "HAX": {
+    "Ticker": "HAX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5405129714730937
+  },
+  "HBC": {
+    "Ticker": "HBC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.7333333333333333,
+    "confidence": 0.5147709250450134
+  },
+  "HBD": {
+    "Ticker": "HBD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.8903675079345703
+  },
+  "HBS": {
+    "Ticker": "HBS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5835463290994592
+  },
+  "HCC": {
+    "Ticker": "HCC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.5
+  },
+  "HCI": {
+    "Ticker": "HCI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9168062806129456
+  },
+  "HCM": {
+    "Ticker": "HCM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6184571944679479
+  },
+  "HCT": {
+    "Ticker": "HCT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.6650084949670031
+  },
+  "HDA": {
+    "Ticker": "HDA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7164179104477612,
+    "confidence": 0.5104241371154785
+  },
+  "HDC": {
+    "Ticker": "HDC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5273541212081909
+  },
+  "HDG": {
+    "Ticker": "HDG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5509193539619446
+  },
+  "HDM": {
+    "Ticker": "HDM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5925115271802617
+  },
+  "HDO": {
+    "Ticker": "HDO",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9661693572998047
+  },
+  "HEV": {
+    "Ticker": "HEV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9767441860465116,
+    "confidence": 0.9898832440376282
+  },
+  "HFC": {
+    "Ticker": "HFC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7761194029850746,
+    "confidence": 0.9171605407492338
+  },
+  "HFX": {
+    "Ticker": "HFX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9,
+    "confidence": 0.9703114032745361
+  },
+  "HGM": {
+    "Ticker": "HGM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.8317312002182007
+  },
+  "HHC": {
+    "Ticker": "HHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.9090909090909092,
+    "confidence": 0.7369967103004456
+  },
+  "HHG": {
+    "Ticker": "HHG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6385392546653748
+  },
+  "HHS": {
+    "Ticker": "HHS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6923076923076923,
+    "confidence": 0.5021756887435913
+  },
+  "HIG": {
+    "Ticker": "HIG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.6110285818937341
+  },
+  "HJS": {
+    "Ticker": "HJS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.5666751528279411
+  },
+  "HLA": {
+    "Ticker": "HLA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.7914769053459167
+  },
+  "HLC": {
+    "Ticker": "HLC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.6062604895301796
+  },
+  "HLY": {
+    "Ticker": "HLY",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.88,
+    "confidence": 0.5967918634414673
+  },
+  "HMC": {
+    "Ticker": "HMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4878048780487805,
+    "confidence": 0.6230326384171626
+  },
+  "HMH": {
+    "Ticker": "HMH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5322477977030476
+  },
+  "HNM": {
+    "Ticker": "HNM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4545454545454545,
+    "confidence": 0.5689843785381314
+  },
+  "HOM": {
+    "Ticker": "HOM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6875,
+    "confidence": 0.5161818861961365
+  },
+  "HOT": {
+    "Ticker": "HOT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.5782254660108223
+  },
+  "HPB": {
+    "Ticker": "HPB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9523809523809524,
+    "confidence": 0.6958827475168254
+  },
+  "HPG": {
+    "Ticker": "HPG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5862068965517241,
+    "confidence": 0.5207042643269209
+  },
+  "HPP": {
+    "Ticker": "HPP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.6155777628125341
+  },
+  "HPT": {
+    "Ticker": "HPT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.7302212295291068
+  },
+  "HQC": {
+    "Ticker": "HQC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6538461538461539,
+    "confidence": 0.4874823115554395
+  },
+  "HRC": {
+    "Ticker": "HRC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5360899872943681
+  },
+  "HSG": {
+    "Ticker": "HSG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5172413793103449,
+    "confidence": 0.5324133634567261
+  },
+  "HSI": {
+    "Ticker": "HSI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.5504388213157654
+  },
+  "HT1": {
+    "Ticker": "HT1",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.4615384615384615,
+    "confidence": 0.5205997892781025
+  },
+  "HTC": {
+    "Ticker": "HTC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5856904361714661
+  },
+  "HTI": {
+    "Ticker": "HTI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5652173913043478,
+    "confidence": 0.5351166807386479
+  },
+  "HTL": {
+    "Ticker": "HTL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5276744905403868
+  },
+  "HTP": {
+    "Ticker": "HTP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5901639344262295,
+    "confidence": 0.9275475305913715
+  },
+  "HTV": {
+    "Ticker": "HTV",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.7213114754098361,
+    "confidence": 0.5169082515523041
+  },
+  "HU1": {
+    "Ticker": "HU1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.5360314652102911
+  },
+  "HU3": {
+    "Ticker": "HU3",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5152702204129219
+  },
+  "HUT": {
+    "Ticker": "HUT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.2666666666666666,
+    "confidence": 0.6212905950152581
+  },
+  "HVG": {
+    "Ticker": "HVG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.62834632396698
+  },
+  "HVT": {
+    "Ticker": "HVT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.9999999997965563
+  },
+  "HVX": {
+    "Ticker": "HVX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5227258081889339
+  },
+  "ICF": {
+    "Ticker": "ICF",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.5862068965517241,
+    "confidence": 0.5
+  },
+  "ICG": {
+    "Ticker": "ICG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5065835522563429
+  },
+  "ICI": {
+    "Ticker": "ICI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6451612903225806,
+    "confidence": 0.9625174502323669
+  },
+  "IDI": {
+    "Ticker": "IDI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.5447667241096497
+  },
+  "IDJ": {
+    "Ticker": "IDJ",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.625,
+    "confidence": 0.5419287085533142
+  },
+  "IDV": {
+    "Ticker": "IDV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.5102917552708668
+  },
+  "IFS": {
+    "Ticker": "IFS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.0,
+    "confidence": 0.7700917720794678
+  },
+  "IHK": {
+    "Ticker": "IHK",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9,
+    "confidence": 0.8908433570983484
+  },
+  "IJC": {
+    "Ticker": "IJC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.696969696969697,
+    "confidence": 0.5
+  },
+  "ILC": {
+    "Ticker": "ILC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.6123506889696211
+  },
+  "IME": {
+    "Ticker": "IME",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9767441860465116,
+    "confidence": 0.9993694424629211
+  },
+  "IMP": {
+    "Ticker": "IMP",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.5,
+    "confidence": 0.8769869414678589
+  },
+  "IN4": {
+    "Ticker": "IN4",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7536231884057971,
+    "confidence": 0.9854354068033706
+  },
+  "INC": {
+    "Ticker": "INC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.5980200150858892
+  },
+  "INN": {
+    "Ticker": "INN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5
+  },
+  "ITA": {
+    "Ticker": "ITA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.5074474720508132
+  },
+  "ITC": {
+    "Ticker": "ITC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5004258751869202
+  },
+  "ITD": {
+    "Ticker": "ITD",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5416666666666666,
+    "confidence": 0.5068739056587219
+  },
+  "ITQ": {
+    "Ticker": "ITQ",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5917169314058884
+  },
+  "IVS": {
+    "Ticker": "IVS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6181818181818182,
+    "confidence": 0.5376149415969849
+  },
+  "JVC": {
+    "Ticker": "JVC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6785714285714286,
+    "confidence": 0.5127523970052561
+  },
+  "KAC": {
+    "Ticker": "KAC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9653973579406738
+  },
+  "KBC": {
+    "Ticker": "KBC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.4848484848484848,
+    "confidence": 0.5431793928146362
+  },
+  "KCE": {
+    "Ticker": "KCE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.8633110551726739
+  },
+  "KDC": {
+    "Ticker": "KDC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4390243902439024,
+    "confidence": 0.6290054981515248
+  },
+  "KDH": {
+    "Ticker": "KDH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.6519075632095337
+  },
+  "KHL": {
+    "Ticker": "KHL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.8799024224281311
+  },
+  "KHP": {
+    "Ticker": "KHP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5454545454545454,
+    "confidence": 0.5183467268943787
+  },
+  "KKC": {
+    "Ticker": "KKC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5426895022392273
+  },
+  "KMR": {
+    "Ticker": "KMR",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4242424242424242,
+    "confidence": 0.5847406217872839
+  },
+  "KMT": {
+    "Ticker": "KMT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9523809523809524,
+    "confidence": 0.9071961244972422
+  },
+  "KSB": {
+    "Ticker": "KSB",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.3333333333333333,
+    "confidence": 0.6561568379402161
+  },
+  "KSD": {
+    "Ticker": "KSD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5516419272307705
+  },
+  "KSH": {
+    "Ticker": "KSH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6532043218612671
+  },
+  "KST": {
+    "Ticker": "KST",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6206896551724138,
+    "confidence": 0.9482048410357149
+  },
+  "KTS": {
+    "Ticker": "KTS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.9595891588110148
+  },
+  "KTT": {
+    "Ticker": "KTT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9090909090909092,
+    "confidence": 0.6867364645004272
+  },
+  "L10": {
+    "Ticker": "L10",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5363242699909181
+  },
+  "L14": {
+    "Ticker": "L14",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6829268292682927,
+    "confidence": 0.5118622183799744
+  },
+  "L18": {
+    "Ticker": "L18",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.45,
+    "confidence": 0.7067255031438571
+  },
+  "L35": {
+    "Ticker": "L35",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5810234023444305
+  },
+  "L43": {
+    "Ticker": "L43",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.3902439024390244,
+    "confidence": 0.9644428487489833
+  },
+  "L44": {
+    "Ticker": "L44",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.6203340493214489
+  },
+  "L61": {
+    "Ticker": "L61",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7887323943661971,
+    "confidence": 0.5795049505804586
+  },
+  "L62": {
+    "Ticker": "L62",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7352941176470589,
+    "confidence": 0.5709720849990845
+  },
+  "LAF": {
+    "Ticker": "LAF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5553647614978569
+  },
+  "LAS": {
+    "Ticker": "LAS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6086956521739131,
+    "confidence": 0.5176046642225139
+  },
+  "LBE": {
+    "Ticker": "LBE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.8634191616816013
+  },
+  "LBM": {
+    "Ticker": "LBM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6274509803921569,
+    "confidence": 0.9999435864352534
+  },
+  "LCC": {
+    "Ticker": "LCC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.8918918918918919,
+    "confidence": 0.8772584247072907
+  },
+  "LCD": {
+    "Ticker": "LCD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9767441860465116,
+    "confidence": 0.7365875244140625
+  },
+  "LCG": {
+    "Ticker": "LCG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.3870967741935484,
+    "confidence": 0.9312364374351316
+  },
+  "LCM": {
+    "Ticker": "LCM",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.6206896551724138,
+    "confidence": 0.5024747252464294
+  },
+  "LCS": {
+    "Ticker": "LCS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9,
+    "confidence": 0.7671166658401489
+  },
+  "LDP": {
+    "Ticker": "LDP",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.5405405405405406,
+    "confidence": 0.5200190544128418
+  },
+  "LGC": {
+    "Ticker": "LGC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.868421052631579,
+    "confidence": 0.5377763509750366
+  },
+  "LGL": {
+    "Ticker": "LGL",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6545454545454545,
+    "confidence": 0.5584568176323831
+  },
+  "LHC": {
+    "Ticker": "LHC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.2068965517241379,
+    "confidence": 0.9606634063289924
+  },
+  "LHG": {
+    "Ticker": "LHG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.6644237637519836
+  },
+  "LIG": {
+    "Ticker": "LIG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.75,
+    "confidence": 0.9896188305055595
+  },
+  "LIX": {
+    "Ticker": "LIX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4615384615384615,
+    "confidence": 0.7954591568330942
+  },
+  "LKW": {
+    "Ticker": "LKW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.8679056167602539
+  },
+  "LM3": {
+    "Ticker": "LM3",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.6639999422753736
+  },
+  "LM7": {
+    "Ticker": "LM7",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.6454001665115356
+  },
+  "LM8": {
+    "Ticker": "LM8",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7164179104477612,
+    "confidence": 0.5167863368988037
+  },
+  "LO5": {
+    "Ticker": "LO5",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.5921331827544604
+  },
+  "LSS": {
+    "Ticker": "LSS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6086956521739131,
+    "confidence": 0.5197107195854187
+  },
+  "LTC": {
+    "Ticker": "LTC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6013732347816954
+  },
+  "LUT": {
+    "Ticker": "LUT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.9605804681777954
+  },
+  "MAC": {
+    "Ticker": "MAC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6875,
+    "confidence": 0.5557733774185181
+  },
+  "MAS": {
+    "Ticker": "MAS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.526382903565979
+  },
+  "MBB": {
+    "Ticker": "MBB",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5365853658536586,
+    "confidence": 0.9830461661357488
+  },
+  "MCC": {
+    "Ticker": "MCC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.9662967510790293
+  },
+  "MCF": {
+    "Ticker": "MCF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5438333948931311
+  },
+  "MCG": {
+    "Ticker": "MCG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7692307692307693,
+    "confidence": 0.5281078815460205
+  },
+  "MCO": {
+    "Ticker": "MCO",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.5757870937762676
+  },
+  "MCP": {
+    "Ticker": "MCP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5342806589351379
+  },
+  "MDC": {
+    "Ticker": "MDC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.5589789999829572
+  },
+  "MDF": {
+    "Ticker": "MDF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6147321447105696
+  },
+  "MDG": {
+    "Ticker": "MDG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.5262056637969708
+  },
+  "MEC": {
+    "Ticker": "MEC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5715452983334491
+  },
+  "MEF": {
+    "Ticker": "MEF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9750596880912781
+  },
+  "MHC": {
+    "Ticker": "MHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.5100033342743695
+  },
+  "MHL": {
+    "Ticker": "MHL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.7324761152267456
+  },
+  "MIC": {
+    "Ticker": "MIC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6129032258064516,
+    "confidence": 0.5930425991236341
+  },
+  "MIM": {
+    "Ticker": "MIM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6245017051696777
+  },
+  "MKV": {
+    "Ticker": "MKV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6235361695289612
+  },
+  "MPC": {
+    "Ticker": "MPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4827586206896552,
+    "confidence": 0.5485059721840047
+  },
+  "MSN": {
+    "Ticker": "MSN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.541465699672699
+  },
+  "MTC": {
+    "Ticker": "MTC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9523809523809524,
+    "confidence": 0.9656438231468201
+  },
+  "MTG": {
+    "Ticker": "MTG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6366198208845427
+  },
+  "MTH": {
+    "Ticker": "MTH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.6457273736198418
+  },
+  "MTP": {
+    "Ticker": "MTP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.6954568944534492
+  },
+  "NAG": {
+    "Ticker": "NAG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5185283339800617
+  },
+  "NAV": {
+    "Ticker": "NAV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.9632879495620728
+  },
+  "NBB": {
+    "Ticker": "NBB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6349206349206349,
+    "confidence": 0.4849238461958881
+  },
+  "NBC": {
+    "Ticker": "NBC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.35,
+    "confidence": 0.4926459896246603
+  },
+  "NBP": {
+    "Ticker": "NBP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6001438939835219
+  },
+  "NBW": {
+    "Ticker": "NBW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6234138496781172
+  },
+  "ND2": {
+    "Ticker": "ND2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.6481696718748743
+  },
+  "NDC": {
+    "Ticker": "NDC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6336673425527324
+  },
+  "NDN": {
+    "Ticker": "NDN",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5,
+    "confidence": 0.5292103290557861
+  },
+  "NET": {
+    "Ticker": "NET",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5,
+    "confidence": 0.5341799259185791
+  },
+  "NGC": {
+    "Ticker": "NGC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9767441860465116,
+    "confidence": 0.6528561702118812
+  },
+  "NHA": {
+    "Ticker": "NHA",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.2142857142857142,
+    "confidence": 0.7619066679457012
+  },
+  "NHC": {
+    "Ticker": "NHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.5639818906784058
+  },
+  "NKG": {
+    "Ticker": "NKG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.6500649452209473
+  },
+  "NNC": {
+    "Ticker": "NNC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.68,
+    "confidence": 0.6988348960876465
+  },
+  "NNT": {
+    "Ticker": "NNT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.2105263157894736,
+    "confidence": 0.9999998999999902
+  },
+  "NOS": {
+    "Ticker": "NOS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.6120822099727407
+  },
+  "NSC": {
+    "Ticker": "NSC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7317073170731707,
+    "confidence": 0.8326924289560983
+  },
+  "NST": {
+    "Ticker": "NST",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5618573682128677
+  },
+  "NT2": {
+    "Ticker": "NT2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5053361057610298
+  },
+  "NTB": {
+    "Ticker": "NTB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.7178554534912109
+  },
+  "NTL": {
+    "Ticker": "NTL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6779661016949152,
+    "confidence": 0.662118771703148
+  },
+  "NTP": {
+    "Ticker": "NTP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.3684210526315789,
+    "confidence": 0.9991254731640715
+  },
+  "NTW": {
+    "Ticker": "NTW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5610927790885855
+  },
+  "NVB": {
+    "Ticker": "NVB",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.7142857142857143,
+    "confidence": 0.5587676763534546
+  },
+  "NVT": {
+    "Ticker": "NVT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.5818181818181818,
+    "confidence": 0.514255166053772
+  },
+  "OCH": {
+    "Ticker": "OCH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7096774193548387,
+    "confidence": 0.5173046669623591
+  },
+  "OGC": {
+    "Ticker": "OGC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5,
+    "confidence": 0.5043944120407104
+  },
+  "ONE": {
+    "Ticker": "ONE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5328253937490776
+  },
+  "OPC": {
+    "Ticker": "OPC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6521739130434783,
+    "confidence": 0.5576979905979912
+  },
+  "ORS": {
+    "Ticker": "ORS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.5306767812459625
+  },
+  "PAC": {
+    "Ticker": "PAC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5614035087719298,
+    "confidence": 0.8918309564821079
+  },
+  "PAN": {
+    "Ticker": "PAN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5957446808510638,
+    "confidence": 0.5302917784584221
+  },
+  "PCG": {
+    "Ticker": "PCG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6,
+    "confidence": 0.5503167510032654
+  },
+  "PCT": {
+    "Ticker": "PCT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5689105074912705
+  },
+  "PDC": {
+    "Ticker": "PDC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5832734500997461
+  },
+  "PDN": {
+    "Ticker": "PDN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4347826086956521,
+    "confidence": 0.9767415162059894
+  },
+  "PDR": {
+    "Ticker": "PDR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6101694915254238,
+    "confidence": 0.9960999980900237
+  },
+  "PEC": {
+    "Ticker": "PEC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.9761904761904762,
+    "confidence": 0.9982069865053989
+  },
+  "PET": {
+    "Ticker": "PET",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.625,
+    "confidence": 0.6027316451072693
+  },
+  "PFL": {
+    "Ticker": "PFL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.7152132518787265
+  },
+  "PGC": {
+    "Ticker": "PGC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.8829014301300049
+  },
+  "PGD": {
+    "Ticker": "PGD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6101694915254238,
+    "confidence": 0.5
+  },
+  "PGI": {
+    "Ticker": "PGI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5
+  },
+  "PGS": {
+    "Ticker": "PGS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5112670677087692
+  },
+  "PGT": {
+    "Ticker": "PGT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.5605583088109323
+  },
+  "PHC": {
+    "Ticker": "PHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.510176497400176
+  },
+  "PHH": {
+    "Ticker": "PHH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.5738254183336231
+  },
+  "PHR": {
+    "Ticker": "PHR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5068750381469727
+  },
+  "PHS": {
+    "Ticker": "PHS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.6131151603501341
+  },
+  "PID": {
+    "Ticker": "PID",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.8781288862228394
+  },
+  "PIT": {
+    "Ticker": "PIT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5299087971093718
+  },
+  "PIV": {
+    "Ticker": "PIV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5218843364206401
+  },
+  "PJC": {
+    "Ticker": "PJC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6159575736244804
+  },
+  "PJS": {
+    "Ticker": "PJS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9,
+    "confidence": 0.6143609321160847
+  },
+  "PJT": {
+    "Ticker": "PJT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5157913942811756
+  },
+  "PLC": {
+    "Ticker": "PLC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5112827230401145
+  },
+  "PMC": {
+    "Ticker": "PMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.4347826086956521,
+    "confidence": 0.551570475101471
+  },
+  "PMS": {
+    "Ticker": "PMS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5612891912460327
+  },
+  "PMT": {
+    "Ticker": "PMT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9,
+    "confidence": 0.6708263685477298
+  },
+  "PNC": {
+    "Ticker": "PNC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6122448979591837,
+    "confidence": 0.5
+  },
+  "PNJ": {
+    "Ticker": "PNJ",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4285714285714285,
+    "confidence": 0.5369263982433019
+  },
+  "POM": {
+    "Ticker": "POM",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5384615384615384,
+    "confidence": 0.5967438647107269
+  },
+  "POT": {
+    "Ticker": "POT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5095419812868182
+  },
+  "POV": {
+    "Ticker": "POV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6371652877080219
+  },
+  "PPC": {
+    "Ticker": "PPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5957446808510638,
+    "confidence": 0.5176720358527811
+  },
+  "PPE": {
+    "Ticker": "PPE",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7575757575757576,
+    "confidence": 0.7258039023387441
+  },
+  "PPI": {
+    "Ticker": "PPI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.532749573992287
+  },
+  "PPP": {
+    "Ticker": "PPP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5853295822845669
+  },
+  "PPS": {
+    "Ticker": "PPS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.637262761592865
+  },
+  "PRC": {
+    "Ticker": "PRC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.985001314811711
+  },
+  "PSB": {
+    "Ticker": "PSB",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.2608695652173913,
+    "confidence": 0.5281449206029656
+  },
+  "PSC": {
+    "Ticker": "PSC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.6133762733394228
+  },
+  "PSG": {
+    "Ticker": "PSG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.5491651296615601
+  },
+  "PSI": {
+    "Ticker": "PSI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5390597754110957
+  },
+  "PSL": {
+    "Ticker": "PSL",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5128205128205128,
+    "confidence": 0.7357737321229618
+  },
+  "PSP": {
+    "Ticker": "PSP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5528396977310333
+  },
+  "PTB": {
+    "Ticker": "PTB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5333333333333333,
+    "confidence": 0.5163190390173477
+  },
+  "PTC": {
+    "Ticker": "PTC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5957446808510638,
+    "confidence": 0.5696067214012146
+  },
+  "PTD": {
+    "Ticker": "PTD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.71875,
+    "confidence": 0.9843993383494105
+  },
+  "PTG": {
+    "Ticker": "PTG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9999210834503174
+  },
+  "PTH": {
+    "Ticker": "PTH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.9053866267204285
+  },
+  "PTI": {
+    "Ticker": "PTI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6521902680397034
+  },
+  "PTL": {
+    "Ticker": "PTL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.5670326352119446
+  },
+  "PTP": {
+    "Ticker": "PTP",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6440677966101694,
+    "confidence": 0.5862446365329431
+  },
+  "PTS": {
+    "Ticker": "PTS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7536231884057971,
+    "confidence": 0.6372635364532471
+  },
+  "PTT": {
+    "Ticker": "PTT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.6450293309463249
+  },
+  "PV2": {
+    "Ticker": "PV2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.5706170526505113
+  },
+  "PVA": {
+    "Ticker": "PVA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6855005827667878
+  },
+  "PVC": {
+    "Ticker": "PVC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6181818181818182,
+    "confidence": 0.5304327041768805
+  },
+  "PVD": {
+    "Ticker": "PVD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6296296296296297,
+    "confidence": 0.5116396546363831
+  },
+  "PVE": {
+    "Ticker": "PVE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.6368875503540039
+  },
+  "PVG": {
+    "Ticker": "PVG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5833333333333334,
+    "confidence": 0.5009417756235826
+  },
+  "PVI": {
+    "Ticker": "PVI",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6521739130434783,
+    "confidence": 0.7595712548224867
+  },
+  "PVL": {
+    "Ticker": "PVL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.6182508099135058
+  },
+  "PVR": {
+    "Ticker": "PVR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8860759493670886,
+    "confidence": 0.7466614842414856
+  },
+  "PVS": {
+    "Ticker": "PVS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5089608477381097
+  },
+  "PVT": {
+    "Ticker": "PVT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.32,
+    "confidence": 0.5067540407180786
+  },
+  "PVV": {
+    "Ticker": "PVV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8,
+    "confidence": 0.5155372023582458
+  },
+  "PVX": {
+    "Ticker": "PVX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.6240361928939819
+  },
+  "PX1": {
+    "Ticker": "PX1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9896615743637085
+  },
+  "PXA": {
+    "Ticker": "PXA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.640604555606842
+  },
+  "PXI": {
+    "Ticker": "PXI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7164179104477612,
+    "confidence": 0.8795405564395237
+  },
+  "PXL": {
+    "Ticker": "PXL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5300051972129087
+  },
+  "PXM": {
+    "Ticker": "PXM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.5463224053382874
+  },
+  "PXS": {
+    "Ticker": "PXS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.4651162790697674,
+    "confidence": 0.5356019139289856
+  },
+  "PXT": {
+    "Ticker": "PXT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.4761904761904761,
+    "confidence": 0.5214279294013977
+  },
+  "QCC": {
+    "Ticker": "QCC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8860759493670886,
+    "confidence": 0.6854167521732404
+  },
+  "QCG": {
+    "Ticker": "QCG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5132569074630737
+  },
+  "QNC": {
+    "Ticker": "QNC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.556978005634915
+  },
+  "QST": {
+    "Ticker": "QST",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.9382716049382716,
+    "confidence": 0.6687010526657104
+  },
+  "QTC": {
+    "Ticker": "QTC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.5395629078359946
+  },
+  "RAL": {
+    "Ticker": "RAL",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6206896551724138,
+    "confidence": 0.8726951158055616
+  },
+  "RCL": {
+    "Ticker": "RCL",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.7761194029850746,
+    "confidence": 0.5150569081306458
+  },
+  "REE": {
+    "Ticker": "REE",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.5106382978723404,
+    "confidence": 0.6382069498818198
+  },
+  "RIC": {
+    "Ticker": "RIC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.6271106600761414
+  },
+  "S12": {
+    "Ticker": "S12",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.926829268292683,
+    "confidence": 0.7268434689938468
+  },
+  "S27": {
+    "Ticker": "S27",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9587321281433105
+  },
+  "S55": {
+    "Ticker": "S55",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.926829268292683,
+    "confidence": 0.5067131197436711
+  },
+  "S74": {
+    "Ticker": "S74",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.6157080993244339
+  },
+  "S96": {
+    "Ticker": "S96",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.8057582974433899
+  },
+  "S99": {
+    "Ticker": "S99",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6545454545454545,
+    "confidence": 0.5296548471277975
+  },
+  "SAF": {
+    "Ticker": "SAF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5940543915436669
+  },
+  "SAM": {
+    "Ticker": "SAM",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5263157894736842,
+    "confidence": 0.5333853363990784
+  },
+  "SAP": {
+    "Ticker": "SAP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.9733783094364009
+  },
+  "SAV": {
+    "Ticker": "SAV",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.5818181818181818,
+    "confidence": 0.5005809664726257
+  },
+  "SBA": {
+    "Ticker": "SBA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.797230064868927
+  },
+  "SBS": {
+    "Ticker": "SBS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.4864864864864865,
+    "confidence": 0.5
+  },
+  "SBT": {
+    "Ticker": "SBT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7692307692307693,
+    "confidence": 0.5365973631294455
+  },
+  "SC5": {
+    "Ticker": "SC5",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6440677966101694,
+    "confidence": 0.6045220196188215
+  },
+  "SCC": {
+    "Ticker": "SCC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9,
+    "confidence": 0.6217696666717529
+  },
+  "SCD": {
+    "Ticker": "SCD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8378378378378378,
+    "confidence": 0.5486775636672974
+  },
+  "SCJ": {
+    "Ticker": "SCJ",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.615489345184485
+  },
+  "SCL": {
+    "Ticker": "SCL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5116279069767442,
+    "confidence": 0.6478629198711535
+  },
+  "SCO": {
+    "Ticker": "SCO",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.8391964614495222
+  },
+  "SCR": {
+    "Ticker": "SCR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6779661016949152,
+    "confidence": 0.5023072361946106
+  },
+  "SD1": {
+    "Ticker": "SD1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.8814074993133545
+  },
+  "SD2": {
+    "Ticker": "SD2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7384615384615385,
+    "confidence": 0.5340966582298279
+  },
+  "SD4": {
+    "Ticker": "SD4",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.544051369536924
+  },
+  "SD5": {
+    "Ticker": "SD5",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7037037037037037,
+    "confidence": 0.5
+  },
+  "SD6": {
+    "Ticker": "SD6",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7714285714285715,
+    "confidence": 0.809904932975769
+  },
+  "SD7": {
+    "Ticker": "SD7",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.5684297680854797
+  },
+  "SD8": {
+    "Ticker": "SD8",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4,
+    "confidence": 0.5699128237042776
+  },
+  "SD9": {
+    "Ticker": "SD9",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6923076923076923,
+    "confidence": 0.45657742917862504
+  },
+  "SDA": {
+    "Ticker": "SDA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5679255079097588
+  },
+  "SDB": {
+    "Ticker": "SDB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9602971076965332
+  },
+  "SDC": {
+    "Ticker": "SDC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.4897959183673469,
+    "confidence": 0.8706592126486769
+  },
+  "SDD": {
+    "Ticker": "SDD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.7460275888442993
+  },
+  "SDG": {
+    "Ticker": "SDG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8860759493670886,
+    "confidence": 0.7297817678534302
+  },
+  "SDJ": {
+    "Ticker": "SDJ",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6877221465110779
+  },
+  "SDK": {
+    "Ticker": "SDK",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.6569117304384579
+  },
+  "SDN": {
+    "Ticker": "SDN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6463811003006716
+  },
+  "SDP": {
+    "Ticker": "SDP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.8484176993370056
+  },
+  "SDT": {
+    "Ticker": "SDT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5206169962695635
+  },
+  "SDU": {
+    "Ticker": "SDU",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8860759493670886,
+    "confidence": 0.6782068141470383
+  },
+  "SDV": {
+    "Ticker": "SDV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7887323943661971,
+    "confidence": 0.999999745888944
+  },
+  "SDY": {
+    "Ticker": "SDY",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.9663992889105361
+  },
+  "SEB": {
+    "Ticker": "SEB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.587877046135937
+  },
+  "SED": {
+    "Ticker": "SED",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5069118438061289
+  },
+  "SFC": {
+    "Ticker": "SFC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.72,
+    "confidence": 0.6083475947380066
+  },
+  "SFI": {
+    "Ticker": "SFI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6181818181818182,
+    "confidence": 0.7843227153721881
+  },
+  "SFN": {
+    "Ticker": "SFN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.6069058102279096
+  },
+  "SGC": {
+    "Ticker": "SGC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5729069810483921
+  },
+  "SGD": {
+    "Ticker": "SGD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.8533333333333334,
+    "confidence": 0.5219737887382507
+  },
+  "SGH": {
+    "Ticker": "SGH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.5605813864688477
+  },
+  "SGS": {
+    "Ticker": "SGS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.6473222253085978
+  },
+  "SGT": {
+    "Ticker": "SGT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5225133903733058
+  },
+  "SHB": {
+    "Ticker": "SHB",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4615384615384615,
+    "confidence": 0.840411346549045
+  },
+  "SHC": {
+    "Ticker": "SHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.6050691394679886
+  },
+  "SHI": {
+    "Ticker": "SHI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5740660429000854
+  },
+  "SHN": {
+    "Ticker": "SHN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5261843800544739
+  },
+  "SHP": {
+    "Ticker": "SHP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7076923076923077,
+    "confidence": 0.5113108158111572
+  },
+  "SHS": {
+    "Ticker": "SHS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5798742175102234
+  },
+  "SII": {
+    "Ticker": "SII",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5181567606475538
+  },
+  "SJ1": {
+    "Ticker": "SJ1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.6261798942901793
+  },
+  "SJC": {
+    "Ticker": "SJC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.5453883728625805
+  },
+  "SJD": {
+    "Ticker": "SJD",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6,
+    "confidence": 0.8715717732801974
+  },
+  "SJE": {
+    "Ticker": "SJE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.5768128064758922
+  },
+  "SJM": {
+    "Ticker": "SJM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.6427984023366232
+  },
+  "SJS": {
+    "Ticker": "SJS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5158960223197937
+  },
+  "SLS": {
+    "Ticker": "SLS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5660377358490566,
+    "confidence": 0.905008558709318
+  },
+  "SMA": {
+    "Ticker": "SMA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.7952061963249227
+  },
+  "SMB": {
+    "Ticker": "SMB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5074613418781434
+  },
+  "SMC": {
+    "Ticker": "SMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.6660545468330383
+  },
+  "SMT": {
+    "Ticker": "SMT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5781645370700799
+  },
+  "SPC": {
+    "Ticker": "SPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.7936835625856788
+  },
+  "SPD": {
+    "Ticker": "SPD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.9502180502550287
+  },
+  "SPI": {
+    "Ticker": "SPI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7575757575757576,
+    "confidence": 0.5840036273002625
+  },
+  "SPM": {
+    "Ticker": "SPM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.711864406779661,
+    "confidence": 0.6264357918620002
+  },
+  "SQC": {
+    "Ticker": "SQC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.6316505074501038
+  },
+  "SRA": {
+    "Ticker": "SRA",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.1714285714285714,
+    "confidence": 0.5315396459599584
+  },
+  "SRB": {
+    "Ticker": "SRB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6002029310766414
+  },
+  "SRC": {
+    "Ticker": "SRC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.1481481481481481,
+    "confidence": 0.560347855091095
+  },
+  "SRF": {
+    "Ticker": "SRF",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5384615384615384,
+    "confidence": 0.7853534704557001
+  },
+  "SSC": {
+    "Ticker": "SSC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.746268656716418,
+    "confidence": 0.5381255745887756
+  },
+  "SSF": {
+    "Ticker": "SSF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.764659583568573
+  },
+  "SSG": {
+    "Ticker": "SSG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.9139422380234616
+  },
+  "SSI": {
+    "Ticker": "SSI",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.0,
+    "confidence": 0.5584990978240967
+  },
+  "SSM": {
+    "Ticker": "SSM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.767673671245575
+  },
+  "ST8": {
+    "Ticker": "ST8",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.0,
+    "confidence": 0.6185715198516846
+  },
+  "STB": {
+    "Ticker": "STB",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.0,
+    "confidence": 0.9792273640632629
+  },
+  "STC": {
+    "Ticker": "STC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.8059701492537313,
+    "confidence": 0.7656829205115799
+  },
+  "STG": {
+    "Ticker": "STG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5332632722123402
+  },
+  "STL": {
+    "Ticker": "STL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.5688257217407227
+  },
+  "STP": {
+    "Ticker": "STP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5811385412539135
+  },
+  "STS": {
+    "Ticker": "STS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.950343906879425
+  },
+  "STT": {
+    "Ticker": "STT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.6354005337073115
+  },
+  "SVC": {
+    "Ticker": "SVC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.3448275862068966,
+    "confidence": 0.8620621954381295
+  },
+  "SVI": {
+    "Ticker": "SVI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.5206289829865449
+  },
+  "SVN": {
+    "Ticker": "SVN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6440677966101694,
+    "confidence": 0.7196905369193354
+  },
+  "SVT": {
+    "Ticker": "SVT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.1333333333333333,
+    "confidence": 0.5102106928825378
+  },
+  "SWC": {
+    "Ticker": "SWC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5316755255948433
+  },
+  "SZL": {
+    "Ticker": "SZL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5,
+    "confidence": 0.5860423108012869
+  },
+  "TBC": {
+    "Ticker": "TBC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.8369677662849426
+  },
+  "TBT": {
+    "Ticker": "TBT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9719270467758179
+  },
+  "TBX": {
+    "Ticker": "TBX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9767441860465116,
+    "confidence": 0.9997864365577698
+  },
+  "TCL": {
+    "Ticker": "TCL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.4761904761904761,
+    "confidence": 0.5262190699577332
+  },
+  "TCM": {
+    "Ticker": "TCM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.4827586206896552,
+    "confidence": 0.5860538482666016
+  },
+  "TCO": {
+    "Ticker": "TCO",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4242424242424242,
+    "confidence": 0.9104999751466827
+  },
+  "TCR": {
+    "Ticker": "TCR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5777777777777777,
+    "confidence": 0.5152105689048767
+  },
+  "TCT": {
+    "Ticker": "TCT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.5916658639907837
+  },
+  "TDC": {
+    "Ticker": "TDC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5128205128205128,
+    "confidence": 0.5554187893867493
+  },
+  "TDH": {
+    "Ticker": "TDH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4912280701754385,
+    "confidence": 0.9987298391094994
+  },
+  "TDS": {
+    "Ticker": "TDS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.2608695652173913,
+    "confidence": 0.5750228325755219
+  },
+  "TDW": {
+    "Ticker": "TDW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.5855169814635401
+  },
+  "TET": {
+    "Ticker": "TET",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.9725425243377686
+  },
+  "TGP": {
+    "Ticker": "TGP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.6162755767998473
+  },
+  "TH1": {
+    "Ticker": "TH1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.88,
+    "confidence": 0.6855399133563344
+  },
+  "THB": {
+    "Ticker": "THB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.5938306341984847
+  },
+  "THG": {
+    "Ticker": "THG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5088544431166676
+  },
+  "THT": {
+    "Ticker": "THT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.7142857142857143,
+    "confidence": 0.617156445980072
+  },
+  "TIE": {
+    "Ticker": "TIE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5296935194185386
+  },
+  "TIG": {
+    "Ticker": "TIG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.5443167471535083
+  },
+  "TIS": {
+    "Ticker": "TIS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5430317239791774
+  },
+  "TIX": {
+    "Ticker": "TIX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.9325171477105825
+  },
+  "TJC": {
+    "Ticker": "TJC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.5310190425048678
+  },
+  "TKC": {
+    "Ticker": "TKC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6975663900375366
+  },
+  "TKU": {
+    "Ticker": "TKU",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.6213373015245601
+  },
+  "TLG": {
+    "Ticker": "TLG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.55,
+    "confidence": 0.7165804638963233
+  },
+  "TLH": {
+    "Ticker": "TLH",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.32,
+    "confidence": 0.5812891787487434
+  },
+  "TLT": {
+    "Ticker": "TLT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.5678907255207617
+  },
+  "TMC": {
+    "Ticker": "TMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5730829933189422
+  },
+  "TMP": {
+    "Ticker": "TMP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.579910397529602
+  },
+  "TMS": {
+    "Ticker": "TMS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.49355982497390927
+  },
+  "TMT": {
+    "Ticker": "TMT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.5769230769230769,
+    "confidence": 0.5101553797721863
+  },
+  "TMW": {
+    "Ticker": "TMW",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.7937384247779846
+  },
+  "TMX": {
+    "Ticker": "TMX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.5615983875217876
+  },
+  "TNA": {
+    "Ticker": "TNA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8860759493670886,
+    "confidence": 0.5525646805763245
+  },
+  "TNB": {
+    "Ticker": "TNB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5251625776290894
+  },
+  "TNC": {
+    "Ticker": "TNC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.5102465965983306
+  },
+  "TNG": {
+    "Ticker": "TNG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5143969496567383
+  },
+  "TNM": {
+    "Ticker": "TNM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.8599553069854171
+  },
+  "TNT": {
+    "Ticker": "TNT",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.45,
+    "confidence": 0.832090272668684
+  },
+  "TPC": {
+    "Ticker": "TPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.5077636612349409
+  },
+  "TPH": {
+    "Ticker": "TPH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.9953301417576227
+  },
+  "TPP": {
+    "Ticker": "TPP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5375966065192755
+  },
+  "TRA": {
+    "Ticker": "TRA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.5
+  },
+  "TRC": {
+    "Ticker": "TRC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4102564102564102,
+    "confidence": 0.8260548921280071
+  },
+  "TS4": {
+    "Ticker": "TS4",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.5145155214098259
+  },
+  "TSB": {
+    "Ticker": "TSB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.9999999999792871
+  },
+  "TSC": {
+    "Ticker": "TSC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6349206349206349,
+    "confidence": 0.5187066073031753
+  },
+  "TST": {
+    "Ticker": "TST",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.6519683878753499
+  },
+  "TTC": {
+    "Ticker": "TTC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5286239272363277
+  },
+  "TTF": {
+    "Ticker": "TTF",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.5098039215686274,
+    "confidence": 0.5512186248417784
+  },
+  "TTG": {
+    "Ticker": "TTG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.692986680032649
+  },
+  "TV1": {
+    "Ticker": "TV1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5310578721018994
+  },
+  "TV2": {
+    "Ticker": "TV2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6031746031746031,
+    "confidence": 0.5224964330890526
+  },
+  "TV3": {
+    "Ticker": "TV3",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5542684273919959
+  },
+  "TV4": {
+    "Ticker": "TV4",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8266666666666667,
+    "confidence": 0.5386100456394055
+  },
+  "TVD": {
+    "Ticker": "TVD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.9954551014171323
+  },
+  "TVG": {
+    "Ticker": "TVG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9816934466362
+  },
+  "TXM": {
+    "Ticker": "TXM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.521036333423728
+  },
+  "TYA": {
+    "Ticker": "TYA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.6234146356582642
+  },
+  "UDC": {
+    "Ticker": "UDC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.5384615384615384,
+    "confidence": 0.5003620386123657
+  },
+  "UDJ": {
+    "Ticker": "UDJ",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5369901956263786
+  },
+  "UIC": {
+    "Ticker": "UIC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5
+  },
+  "UNI": {
+    "Ticker": "UNI",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6511627906976745,
+    "confidence": 0.9652526597935528
+  },
+  "V12": {
+    "Ticker": "V12",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6209551218213125
+  },
+  "V15": {
+    "Ticker": "V15",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.8901090025901794
+  },
+  "V21": {
+    "Ticker": "V21",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.7619047619047619,
+    "confidence": 0.8741158148919669
+  },
+  "VBC": {
+    "Ticker": "VBC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.6148468002069818
+  },
+  "VBH": {
+    "Ticker": "VBH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6885245901639344,
+    "confidence": 0.6980332539847401
+  },
+  "VC1": {
+    "Ticker": "VC1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.6365863489408166
+  },
+  "VC2": {
+    "Ticker": "VC2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.625,
+    "confidence": 0.5293100423475846
+  },
+  "VC3": {
+    "Ticker": "VC3",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.625,
+    "confidence": 0.5294715762138367
+  },
+  "VC5": {
+    "Ticker": "VC5",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.7999100226862351
+  },
+  "VC6": {
+    "Ticker": "VC6",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.6036093831062317
+  },
+  "VC7": {
+    "Ticker": "VC7",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.4210526315789473,
+    "confidence": 0.6140732765197754
+  },
+  "VC9": {
+    "Ticker": "VC9",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.529506467983701
+  },
+  "VCA": {
+    "Ticker": "VCA",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4444444444444444,
+    "confidence": 0.9945374944528579
+  },
+  "VCB": {
+    "Ticker": "VCB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6111111111111112,
+    "confidence": 0.6343552194727964
+  },
+  "VCC": {
+    "Ticker": "VCC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.556215145696039
+  },
+  "VCF": {
+    "Ticker": "VCF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.6774193548387096,
+    "confidence": 0.9337153240415539
+  },
+  "VCG": {
+    "Ticker": "VCG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6274509803921569,
+    "confidence": 0.5975745832962333
+  },
+  "VCM": {
+    "Ticker": "VCM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.6656753827105534
+  },
+  "VCR": {
+    "Ticker": "VCR",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.4545454545454545,
+    "confidence": 0.556003055033759
+  },
+  "VCS": {
+    "Ticker": "VCS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.4285714285714285,
+    "confidence": 0.9648833296144183
+  },
+  "VCT": {
+    "Ticker": "VCT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9453646540641785
+  },
+  "VDL": {
+    "Ticker": "VDL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.571430549404165
+  },
+  "VDN": {
+    "Ticker": "VDN",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.8697548508644104
+  },
+  "VDS": {
+    "Ticker": "VDS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.9989106988045493
+  },
+  "VDT": {
+    "Ticker": "VDT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.6675728921728675
+  },
+  "VE1": {
+    "Ticker": "VE1",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.641213059425354
+  },
+  "VE2": {
+    "Ticker": "VE2",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.6716172695159912
+  },
+  "VE3": {
+    "Ticker": "VE3",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5931983952190667
+  },
+  "VE4": {
+    "Ticker": "VE4",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9637975692749023
+  },
+  "VE8": {
+    "Ticker": "VE8",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.5015406608581543
+  },
+  "VE9": {
+    "Ticker": "VE9",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8,
+    "confidence": 0.5725358724594116
+  },
+  "VES": {
+    "Ticker": "VES",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.9142857142857144,
+    "confidence": 0.9905240902793571
+  },
+  "VFC": {
+    "Ticker": "VFC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8108108108108109,
+    "confidence": 0.6531691551208496
+  },
+  "VFG": {
+    "Ticker": "VFG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.5
+  },
+  "VFR": {
+    "Ticker": "VFR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.5896353961491511
+  },
+  "VGP": {
+    "Ticker": "VGP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5709884412282307
+  },
+  "VGS": {
+    "Ticker": "VGS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.4117647058823529,
+    "confidence": 0.5571988821029663
+  },
+  "VHC": {
+    "Ticker": "VHC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.625,
+    "confidence": 0.6559573411941528
+  },
+  "VHF": {
+    "Ticker": "VHF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9885057471264368,
+    "confidence": 0.9539651870727539
+  },
+  "VHG": {
+    "Ticker": "VHG",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "transformer",
+    "f1_score": 0.6153846153846154,
+    "confidence": 0.586324155330658
+  },
+  "VHH": {
+    "Ticker": "VHH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4651162790697674,
+    "confidence": 0.5111709674572803
+  },
+  "VHL": {
+    "Ticker": "VHL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7536231884057971,
+    "confidence": 0.5225391983985901
+  },
+  "VIC": {
+    "Ticker": "VIC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5098039215686274,
+    "confidence": 0.5241715275539134
+  },
+  "VID": {
+    "Ticker": "VID",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.1481481481481481,
+    "confidence": 0.5298862996300744
+  },
+  "VIE": {
+    "Ticker": "VIE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7796610169491526,
+    "confidence": 0.8641176527601544
+  },
+  "VIG": {
+    "Ticker": "VIG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.6141686536510863
+  },
+  "VIP": {
+    "Ticker": "VIP",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5333333333333333,
+    "confidence": 0.5576571533572329
+  },
+  "VIR": {
+    "Ticker": "VIR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.9647058823529412,
+    "confidence": 0.956169605255127
+  },
+  "VIT": {
+    "Ticker": "VIT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5528746838088526
+  },
+  "VIX": {
+    "Ticker": "VIX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5203951471001117
+  },
+  "VKC": {
+    "Ticker": "VKC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5869480967521667
+  },
+  "VLA": {
+    "Ticker": "VLA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6865671641791045,
+    "confidence": 0.73490527406228
+  },
+  "VLF": {
+    "Ticker": "VLF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.821917808219178,
+    "confidence": 0.7295891046524048
+  },
+  "VMC": {
+    "Ticker": "VMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5665844604267639
+  },
+  "VMD": {
+    "Ticker": "VMD",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6451612903225806,
+    "confidence": 0.522648811340332
+  },
+  "VNA": {
+    "Ticker": "VNA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5806451612903226,
+    "confidence": 0.6099781647107654
+  },
+  "VNC": {
+    "Ticker": "VNC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.612132621276904
+  },
+  "VND": {
+    "Ticker": "VND",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.64,
+    "confidence": 0.762629085342333
+  },
+  "VNE": {
+    "Ticker": "VNE",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5,
+    "confidence": 0.5332052111625671
+  },
+  "VNF": {
+    "Ticker": "VNF",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5926367619818382
+  },
+  "VNG": {
+    "Ticker": "VNG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5573770491803278,
+    "confidence": 0.5219160745063605
+  },
+  "VNH": {
+    "Ticker": "VNH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.6195581555366516
+  },
+  "VNI": {
+    "Ticker": "VNI",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.8615384615384616,
+    "confidence": 0.6003507375717163
+  },
+  "VNL": {
+    "Ticker": "VNL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7058823529411765,
+    "confidence": 0.5562360390147693
+  },
+  "VNM": {
+    "Ticker": "VNM",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5333333333333333,
+    "confidence": 0.588218437766404
+  },
+  "VNR": {
+    "Ticker": "VNR",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7246376811594203,
+    "confidence": 0.5
+  },
+  "VNS": {
+    "Ticker": "VNS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5348171365402049
+  },
+  "VNT": {
+    "Ticker": "VNT",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8571428571428571,
+    "confidence": 0.5608294664617604
+  },
+  "VNX": {
+    "Ticker": "VNX",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.9028795455267415
+  },
+  "VOS": {
+    "Ticker": "VOS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5082971453666687
+  },
+  "VPC": {
+    "Ticker": "VPC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9135802469135802,
+    "confidence": 0.6985200621866913
+  },
+  "VPH": {
+    "Ticker": "VPH",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "svm",
+    "f1_score": 0.2727272727272727,
+    "confidence": 0.5
+  },
+  "VQC": {
+    "Ticker": "VQC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.7205868257892503
+  },
+  "VRC": {
+    "Ticker": "VRC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.5862068965517241,
+    "confidence": 0.4939308515356165
+  },
+  "VSC": {
+    "Ticker": "VSC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7213114754098361,
+    "confidence": 0.9999999999999699
+  },
+  "VSG": {
+    "Ticker": "VSG",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.6280379032794485
+  },
+  "VSH": {
+    "Ticker": "VSH",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.7945205479452054,
+    "confidence": 0.683085560798645
+  },
+  "VSI": {
+    "Ticker": "VSI",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4651162790697674,
+    "confidence": 0.7625138331775652
+  },
+  "VST": {
+    "Ticker": "VST",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7777777777777778,
+    "confidence": 0.6340013078831034
+  },
+  "VTA": {
+    "Ticker": "VTA",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7605633802816901,
+    "confidence": 0.5896865385043699
+  },
+  "VTB": {
+    "Ticker": "VTB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.5925925925925926,
+    "confidence": 0.509713351726532
+  },
+  "VTC": {
+    "Ticker": "VTC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5997106655371846
+  },
+  "VTI": {
+    "Ticker": "VTI",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "logistic_regression",
+    "f1_score": 0.8421052631578947,
+    "confidence": 0.9294701538760585
+  },
+  "VTL": {
+    "Ticker": "VTL",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.8378378378378378,
+    "confidence": 0.8154520988464355
+  },
+  "VTO": {
+    "Ticker": "VTO",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "transformer",
+    "f1_score": 0.4444444444444444,
+    "confidence": 0.5083593130111694
+  },
+  "VTS": {
+    "Ticker": "VTS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.8717948717948718,
+    "confidence": 0.6727950843130495
+  },
+  "VTV": {
+    "Ticker": "VTV",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.6666666666666666,
+    "confidence": 0.5190908504947817
+  },
+  "VXB": {
+    "Ticker": "VXB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.9397590361445785,
+    "confidence": 0.6265015484528853
+  },
+  "WCS": {
+    "Ticker": "WCS",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5137816548145232
+  },
+  "WSB": {
+    "Ticker": "WSB",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "svm",
+    "f1_score": 0.7428571428571429,
+    "confidence": 0.5107512305726929
+  },
+  "WSS": {
+    "Ticker": "WSS",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "lstm",
+    "f1_score": 0.8524590163934426,
+    "confidence": 0.5673693418502808
+  },
+  "WTC": {
+    "Ticker": "WTC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.4571428571428571,
+    "confidence": 0.999982822295278
+  },
+  "XMC": {
+    "Ticker": "XMC",
+    "Date": "2025-05-11",
+    "Prediction": 1,
+    "model_used": "lstm",
+    "f1_score": 0.6461538461538462,
+    "confidence": 0.503624439239502
+  },
+  "YBC": {
+    "Ticker": "YBC",
+    "Date": "2025-05-11",
+    "Prediction": 0,
+    "model_used": "logistic_regression",
+    "f1_score": 0.5652173913043478,
+    "confidence": 0.9714991583765981
+  }
+}
